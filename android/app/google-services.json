@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764129177922",
+    "project_id": "helo-c0fa8",
+    "storage_bucket": "helo-c0fa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764129177922:android:add09c00b989280dbdd8db",
+        "android_client_info": {
+          "package_name": "com.health_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764129177922-a2cd2m3jb9jpfq7gvmk5e5pjkjc7a5kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4JCrrJgaPf3zJdlPR2PxQpc9XRHI8gKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764129177922-a2cd2m3jb9jpfq7gvmk5e5pjkjc7a5kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
